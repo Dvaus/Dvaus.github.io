@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-    <h> Task 1</h>
+    <h4> Task 1</h4>
     <dir>
         <h4>лучше это всё засунуть в Head, но пусть будет тут для вида)</h4>
         <title>Top content about JoJo</title>
@@ -10,25 +10,25 @@
         <meta name="description" content="SiteContent">
         <link rel="stylesheet" type="text/css" href="style.css"> 
     </dir>
-    <h> Task 2</h>
+    <h4> Task 2</h4>
     <div> 
         <h1><span id="h1" class="ColorText">Top</span> Content</h1>
         <h2>Not bad content</h2>
         <h3>You read content about JoJo</h3>
     </div>
-    <h> Task 3</h>
+    <h4> Task 3</h4>
     <dir>
         <p id="p1">Stand, want is this?</p>
         <p id="p1">How to get the Stand?</p>
         <p id="p1">Am I crazy or cool at all?</p>
     </dir>
-    <h> Task 4</h>
+    <h4> Task 4</h4>
     <dir>
         <img class="photo" src="https://stickershop.line-scdn.net/stickershop/v1/product/3065/LINEStorePC/main.png;compress=true" width="200" height="200" alt="Content">
         <img class="photo" src="https://www.pulsar.ua/files/img_products/full_81GyqsC7hSL.jpg" width="200" height="200" alt="Content">
         <img class="photo" src="https://cadelta.ru/images/JoJos_Bizarre__Adventure.jpg" width="200" height="200" alt="Content">
     </dir>
-    <h> Task 5</h>
+    <h4> Task 5</h4>
     <div>
         <h2> Виды кантента: </h2>
         <ol>
@@ -43,12 +43,12 @@
             <li> <h3>и еще какая то дичь которая появится в ближайшем будущем</h3> </li>
         </ul>
     </div>
-    <h> Task 6</h>
+    <h4> Task 6</h4>
     <div>
         <p><span> H<sub>2</sub>O </span></p>
         <p><span> x<sup>2</sup> </span></p>
     </div>
-    <h> Task 7</h>
+    <h4> Task 7</h4>
     <div>
         <form method="post">
             <div>
