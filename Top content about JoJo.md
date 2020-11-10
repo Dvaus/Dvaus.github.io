@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>Top content about JoJo</title>
 	<meta charset="utf-8">
         <meta name="description" content="SiteContent">
 	<link rel="stylesheet" type="text/css" href="style.css">
