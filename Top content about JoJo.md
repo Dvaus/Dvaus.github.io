@@ -1,14 +1,14 @@
 <html>
 <head>
 	<title>Top content about JoJo</title>
+	<meta charset="utf-8">
+        <meta name="description" content="SiteContent">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h> Task 1</h>
 	<dir>
-    	<h4>лучше это всё засунуть в Head, но пусть будет тут для вида)</h4>
-		<meta charset="utf-8">
-		<meta name="description" content="SiteContent">
-		<link rel="stylesheet" type="text/css" href="style.css"> 
+    	<h4>всё засунул в Head, но пусть будет тут для вида)</h4> 
 	</dir>
     <h> Task 2</h>
 	<div> 
